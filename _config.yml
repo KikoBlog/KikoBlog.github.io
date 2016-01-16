@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://KikoBlog.github.io
+title: KikoBlog
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 1
