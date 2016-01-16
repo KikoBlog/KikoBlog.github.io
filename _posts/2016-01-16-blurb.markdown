@@ -1,0 +1,6 @@
+---
+published: true
+title: blurb
+layout: post
+---
+blah blah 
