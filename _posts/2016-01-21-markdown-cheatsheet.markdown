@@ -53,7 +53,6 @@ _italics_
 # Code things
 
 <pre lang="no-highlight"><code>
-
 ```
 This is a block of code.
 ```
@@ -100,8 +99,10 @@ Click here for the more complete [cheet sheet](https://github.com/adam-p/markdow
 
 # Pretty horizontal lines
 
-```
 --- 
+
 ```
 
 --- 
+```
+
