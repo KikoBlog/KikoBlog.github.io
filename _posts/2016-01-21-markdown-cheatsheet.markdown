@@ -3,7 +3,6 @@ published: true
 title: Markdown cheatsheet
 layout: post
 ---
-
 # Text things
 
 ```no-highlight
@@ -28,11 +27,11 @@ _italics_
 _italics_
 
 
-```no-highlight
+<pre lang="no-highlight"><code>
 1. ordered list
 1. ordered list
   2. another item
-```
+</code></pre>
 
 1. ordered list
 1. ordered list
@@ -99,10 +98,7 @@ Click here for the more complete [cheet sheet](https://github.com/adam-p/markdow
 
 # Pretty horizontal lines
 
---- 
-
-```
-
---- 
-```
-
+<pre lang="no-highlight"><code>
+---
+</code></pre>
+---
