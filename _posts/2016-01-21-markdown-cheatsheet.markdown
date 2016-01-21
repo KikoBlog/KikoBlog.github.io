@@ -54,7 +54,7 @@ _italics_
 
 ```
 
-```
+```no-hightlight
 This is a block of code
 ```
 
