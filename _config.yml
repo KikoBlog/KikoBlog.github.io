@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://KikoBlog.github.io
-title: KikoBlog
-tagline: A log of everyday life
-description: My awesome new site
-paginate: 1
+title: Kiko's Blog
+tagline: I don't need a tag line.
+description: Random ramblings
+paginate: 5
