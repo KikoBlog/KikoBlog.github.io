@@ -52,7 +52,7 @@ _italics_
 
 # Code things
 
-```
+```no-hightlight
 ```
 This is a block of code
 ```
@@ -99,7 +99,7 @@ Click here for the more complete [cheet sheet](https://github.com/adam-p/markdow
 
 # Pretty horizontal lines
 
-```no-highlight
+```
 --- 
 ```
 
