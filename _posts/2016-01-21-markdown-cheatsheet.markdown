@@ -54,17 +54,16 @@ _italics_
 
 ```
 
-```python
-s = "Python syntax highlighting"
-print s
+```
+This is a block of code
 ```
 
 ```
 
-```python
-s = "Python syntax highlighting"
-print s
 ```
+This is a block of code
+```
+
 
 # Links things
 
