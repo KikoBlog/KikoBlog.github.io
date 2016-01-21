@@ -1,4 +1,3 @@
-
 ---
 published: true
 title: Markdown cheatsheet
@@ -9,9 +8,7 @@ layout: post
 
 ```no-highlight
 # Giant heading
-
 ## Smaller heading
-
 ### And even smaler heading
 ```
 etc.
@@ -24,12 +21,10 @@ etc.
 
 ```no-highlight
 **bold** 
-
 _italics_
 ```
 
 **bold** 
-
 _italics_
 
 
