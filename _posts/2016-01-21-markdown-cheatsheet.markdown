@@ -53,9 +53,11 @@ _italics_
 # Code things
 
 ```
- <code>```</code>
- This is a block of code
- <code>```</code>
+
+```
+This is a block of code
+```
+
 ```
 
 ```
