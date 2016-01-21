@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://KikoBlog.github.io
 title: Kiko's Blog
 tagline: I don't need a tag line.
-description: Random ramblings
+description: a random collection
 paginate: 5
