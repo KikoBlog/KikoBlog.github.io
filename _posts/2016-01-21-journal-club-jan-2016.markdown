@@ -26,7 +26,6 @@ To explore the relationship between differences in morphology of RGCs and certai
 
 ![Image](morphologies.jpg)
 
-
 ## ...the model
 
 * Multicompartment cell model
