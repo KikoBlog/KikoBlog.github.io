@@ -52,13 +52,21 @@ _italics_
 
 # Code things
 
+<pre lang="no-highlight"><code>```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
 ```
-
-```no-hightlight
-This is a block of code
+ 
+```python
+s = "Python syntax highlighting"
+print s
 ```
-
+ 
 ```
+No language indicated, so no syntax highlighting. 
+But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
+```
+</code></pre>
 
 ```
 This is a block of code
