@@ -5,25 +5,28 @@ layout: post
 ---
 # Text things
 
-```no-highlight
+<pre lang="no-highlight"><code>
 # Giant heading
 ## Smaller heading
 ### And even smaler heading
-```
+</code></pre>
 etc.
 
 
 # Giant heading
+
 ## Smaller heading
+
 ### And even smaler heading
 
 
-```no-highlight
+<pre lang="no-highlight"><code>
 **bold** 
 _italics_
-```
+</code></pre>
 
 **bold** 
+
 _italics_
 
 
@@ -37,11 +40,11 @@ _italics_
 1. ordered list
   2. another item
 
-```no-highlight
+<pre lang="no-highlight"><code>
 * unordered list
 * unordered list
   * another item
-```
+</code></pre>
 
 * unordered list
 * unordered list
@@ -66,29 +69,29 @@ This is a block of code
 
 ## ..to a page
 
-```no-highlight
+<pre lang="no-highlight"><code>
 Click here for the more complete [cheet sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) we stole these points from.
-```
+</code></pre>
 
 Click here for the more complete [cheet sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) we stole these points from.
 
 ## ..to an image
 
-```no-highlight
+<pre lang="no-highlight"><code>
 ![clickable text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-```
+</code></pre>
 
 ![clickable text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 # Tables
 
-```no-highlight
+<pre lang="no-highlight"><code>
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-```
+</code></pre>
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
