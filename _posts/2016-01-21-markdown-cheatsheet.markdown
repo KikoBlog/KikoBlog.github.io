@@ -52,10 +52,10 @@ _italics_
 
 # Code things
 
-```no-hightlight
 ```
-This is a block of code
-```
+ ```
+ This is a block of code
+ ```
 ```
 
 ```
