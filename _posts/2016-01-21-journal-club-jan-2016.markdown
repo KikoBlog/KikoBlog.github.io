@@ -24,7 +24,7 @@ To explore the relationship between differences in morphology of RGCs and certai
 
 ## Background knowledge (notes)
 
-![Morphologies](https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/morphologies.jpg "" )
+![Morphologies](https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/morphologies.jpg)
 [src](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2290089/)
 
 ## ...the model
