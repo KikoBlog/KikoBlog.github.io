@@ -56,9 +56,8 @@ Click here for the more complete [cheet sheet](https://github.com/adam-p/markdow
 
 # Pretty horizontal lines
 
---- 
+<pre lang="no-highlight"><code>
+---
+</code></pre>
 
-```
-
 --- 
-```
