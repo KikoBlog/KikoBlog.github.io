@@ -31,6 +31,9 @@ To explore the relationship between differences in morphology of RGCs and certai
 1. ...retinal magic
 1. ON and OFF pathways converge in the visual cortex as simple cells
 
+S-cell: sustained
+T-cell: transient
+
 ...what is alpha-like behaviour?
 
 RGCs differ in stratification layer and size... this is an image from cat RGCs:
@@ -77,3 +80,4 @@ Different ion channel concentrations are given in Table 4.
 Cells not meeting the constraints had a high ratio of dendritic to total surface area, a larger soma, and a lower input resistance.
 
 ### Regarding 2:
+* Dendritic and somatic compartment size were (independently) reduced step by step - resting potential, spontaneous and rebound burst frequencies were calculated, rest was simulated.
