@@ -82,4 +82,8 @@ Cells not meeting the constraints had a high ratio of dendritic to total surface
 ### Regarding 2:
 * Dendritic and somatic compartment size were (independently) reduced step by step - resting potential, spontaneous and rebound burst frequencies were calculated, rest was simulated.
 <img style="width: 500px" src="https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/phaseplot.gif"/>
+Off S (sustained) cell
+Arrows point in the direction of decreasing size.
+*a* dendritic surface reduction: The action potentials increased in maximal amplitude, and changed faster(?) - does that mean higher firing rate?
+*d* somatic surface reduction: The action potentials decreased in maximal amplitude and changed more slowly. 
 
