@@ -56,6 +56,8 @@ Included parameters:
 ### Ion channel distribution:
 Different ion channel concentrations are given in Table 4.
 
+### Random things about the model:
+* Leak conductance needed adjustment compared to a reference, because this study included additional inward currents that weren't modelled in the other paper. If not for this adjustment, the outcome wouldn't have matched the experimental  values. 
 
 
 * Validation through published mouse data
