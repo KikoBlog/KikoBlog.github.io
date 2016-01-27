@@ -71,6 +71,9 @@ Different ion channel concentrations are given in Table 4.
 1. For certain cells, this model reproduced experimental data, for others it didn't (see Table 5). The authors investigated the morphologies of the cells that did and didn't work with the model. 
 1. The authors also explored the effect of soma and dendrite surface area on the intrinsic electrophysiological properties of the cells.
 
-### To 1:
-* 88 of 200 cells did not meet the constraints. (some did not produce action potential, others spiked during hyperpolarizing stimulus..) 
+### Regarding 1:
+* 88 of 200 cells did not meet the constraints. (some did not produce action potential, others spiked during hyperpolarizing stimulus...)
+<img style="width: 500px" src="https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/histogram.gif"/>
+Cells not meeting the constraints had a high ratio of dendritic to total surface area, a larger soma, and a lower input resistance.
 
+### Regarding 2:
