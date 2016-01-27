@@ -81,3 +81,5 @@ Cells not meeting the constraints had a high ratio of dendritic to total surface
 
 ### Regarding 2:
 * Dendritic and somatic compartment size were (independently) reduced step by step - resting potential, spontaneous and rebound burst frequencies were calculated, rest was simulated.
+<img style="width: 500px" src="https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/phaseplot.gif"/>
+
