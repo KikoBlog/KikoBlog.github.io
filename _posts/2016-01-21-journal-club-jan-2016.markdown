@@ -42,16 +42,20 @@ RGCs differ in stratification layer and size... this is an image from cat RGCs:
 
 ## ...the model
 
-Multicompartment cell model 
+### Multicompartment cell model 
 <img style="width: 500px" src="https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/morphology.gif"/>
 
 SOBC: sodium band channel: more sodium channels (d'uh) 
 
-Membrane dynamics: Hodgekin-Huxley type model (eq 1):
+### Membrane dynamics: Hodgekin-Huxley type model (eq 1):
 Included parameters:
 * Leak, sodium, calcium, delayed rectifier potassium, A-type, Ca-activated potassium current - everything neatly modelled like others before this paper.
 * Calcium reversal potential varied with time
-* 
+* Calcium concentration depends on the calcium current (d'uh) 
+
+### Ion channel distribution:
+Different ion channel concentrations are given in Table 4.
+
 
 
 * Validation through published mouse data
