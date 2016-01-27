@@ -35,13 +35,25 @@ To explore the relationship between differences in morphology of RGCs and certai
 
 RGCs differ in stratification layer and size... this is an image from cat RGCs:
 ![Morphologies](https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/morphologies.jpg)
+
 [src](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2290089/)
+
 
 
 ## ...the model
 
-* Multicompartment cell model
-* Membrane dynamics: Hodgekin-Huxley type model
+Multicompartment cell model 
+<img style="width: 500px" src="https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/morphology.gif"/>
+
+SOBC: sodium band channel: more sodium channels (d'uh) 
+
+Membrane dynamics: Hodgekin-Huxley type model (eq 1):
+Included parameters:
+* Leak, sodium, calcium, delayed rectifier potassium, A-type, Ca-activated potassium current - everything neatly modelled like others before this paper.
+* Calcium reversal potential varied with time
+* 
+
+
 * Validation through published mouse data
 
 ## The story in figures
