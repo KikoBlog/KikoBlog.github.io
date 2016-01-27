@@ -68,3 +68,6 @@ Different ion channel concentrations are given in Table 4.
 
 ## The interesting bit (results)
 
+* For certain cells, this model reproduced experimental data, for others it didn't (see Table 5). The authors investigated the morphologies of the cells that did and didn't work with the model. 
+* The authors also explored the effect of soma and dendrite surface area on the intrinsic electrophysiological properties of the cells.
+
