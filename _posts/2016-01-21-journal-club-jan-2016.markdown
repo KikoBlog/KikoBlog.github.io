@@ -31,8 +31,9 @@ To explore the relationship between differences in morphology of RGCs and certai
 1. ...retinal magic
 1. ON and OFF pathways converge in the visual cortex as simple cells
 
-S-cell: sustained
-T-cell: transient
+ON increases firing frequency with increasing light intensity
+OFF S-cell: sustained, spontaneous spiking in darkness, a sustained component of spiking activity during illumination
+OFF T-cell: transient, quiet in darkness, transient spikes at light offset
 
 ...what is alpha-like behaviour?
 
@@ -85,5 +86,4 @@ Cells not meeting the constraints had a high ratio of dendritic to total surface
 Off S (sustained) cell
 Arrows point in the direction of decreasing size.
 *a* dendritic surface reduction: The action potentials increased in maximal amplitude, and changed faster(?) - does that mean higher firing rate?
-*d* somatic surface reduction: The action potentials decreased in maximal amplitude and changed more slowly. 
-
+*d* somatic surface reduction: The action potentials decreased in maximal amplitude and changed more slowly.
