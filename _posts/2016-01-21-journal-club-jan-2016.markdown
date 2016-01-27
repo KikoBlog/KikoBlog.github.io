@@ -23,7 +23,7 @@ To explore the relationship between differences in morphology of RGCs and certai
 **Model scope:** The model seems to most accurately predict experimental outcomes for cells that have a large soma to total surface area.
 
 
-## Background knowledge (notes)
+## (notes)
 
 1. Light enters the eye
 1. Hits the photo-receptors
@@ -31,7 +31,7 @@ To explore the relationship between differences in morphology of RGCs and certai
 1. ...retinal magic
 1. ON and OFF pathways converge in the visual cortex as simple cells
 
-
+...what is alpha-like behaviour?
 
 RGCs differ in stratification layer and size... this is an image from cat RGCs:
 ![Morphologies](https://raw.githubusercontent.com/KikoBlog/KikoBlog.github.io/master/images/jc_2016_01/morphologies.jpg)
@@ -68,6 +68,9 @@ Different ion channel concentrations are given in Table 4.
 
 ## The interesting bit (results)
 
-* For certain cells, this model reproduced experimental data, for others it didn't (see Table 5). The authors investigated the morphologies of the cells that did and didn't work with the model. 
-* The authors also explored the effect of soma and dendrite surface area on the intrinsic electrophysiological properties of the cells.
+1. For certain cells, this model reproduced experimental data, for others it didn't (see Table 5). The authors investigated the morphologies of the cells that did and didn't work with the model. 
+1. The authors also explored the effect of soma and dendrite surface area on the intrinsic electrophysiological properties of the cells.
+
+### To 1:
+* 88 of 200 cells did not meet the constraints. (some did not produce action potential, others spiked during hyperpolarizing stimulus..) 
 
